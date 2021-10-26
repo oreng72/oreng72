@@ -3,21 +3,22 @@
 **Onot Hashana 23 Ness Zionna +972 (0)54 4491157 oreng2403@gmail.com**
 
 
-Experienced Engineer understands the melding of operations and development, working in SaaS, Cloud (Azure and AWS) and on-prem environments in large scale multi tenancy environments. Skilled in data collection, analysis, management, cost and monitoring processes. Works well under pressure and consistently meet deadlines and targets while delivering high-quality work, looking for the creative solution. Has the ability to see the big picture, technical leadership, communication, and presentations. 
+Experienced Engineer understands the melding of operations and development, working in SaaS, Cloud (Azure and AWS) and on-prem environments in large scale multi tenancy environments. Skilled in problem sloving, data collection, analysis, management, cost and monitoring processes. Works well under pressure and consistently meet deadlines and targets while delivering high-quality work, looking for the creative solution. Has the ability to see the big picture, technical leadership, communication, and presentations. 
 
 **Exprience**
 
 ***04/2021-NOW DEVOPS ENGINEER, TIPRANKS***
 
-Single DevOPS, leading all related activities as part of the engineering team. Responsible for security, monitoring, automation, CI / CD ,FinOPS ,developing processes and procedures in a micro service environment running on Azure.
+Single DevOPS, leading all related activities as part of the engineering team. Responsible for security, monitoring, automation, CI / CD ,FinOPS ,developing processes and procedures in a complex micro service environment running on Azure.
 
 ***2021 – 2006 SAAS OPERATIONS AND ENGINEERING (VARIOUS ROLES), RSA***
 
-2020 - 2021 Part of Cloud infra team responsible new IAAC in Azure cloud via Terraform and Ansible.
+2020 - 2021 Part of Cloud infra team responsible new IAC in Azure cloud via Terraform and Ansible.
 
-2015 – 2020 Leading and hands on support of high SLA production environments deployed in Azure. Supporting all the layers consists of DB (Cassandra, SQL Server, SQL managed service), Linux servers, windows servers, RabbitMQ, WAF, NSG, Automation etc. Managing relations with Azure on weekly calls including CPE. Leading FinOPS activities. Working closely with DEVOPS, engineering and security on complex projects. Attending audits (SOCII, PCI, customer audits). Supporting additional system located on AWS.
+2015 – 2020 Leading and hands on support of high SLA production environments deployed in Azure. Supporting all the layers consists of DB (Cassandra, SQL Server, SQL managed service), Linux servers, windows servers, RabbitMQ, WAF, NSG, Automation etc. Managing relations with Azure on weekly calls including CPE. Leading FinOPS activities. Working closely with DevOPS, engineering and security on complex projects. Attending audits (SOCII, PCI, customer audits). Supporting additional system located on AWS.
 
-2012 – 2015 Managing two teams total of appox 20 people. Leading change management process and execution in SaaS OPS, including a team of three engineers. Hands on deployments and support.Managing a 24*7 NOC team, including recruiting new employees, managing the team, setting procedures and making sure SLA is being followed.
+2012 – 2015 Managing two teams total of appox 20 people. Leading Change Management Team and process execution in SaaS OPS, managing a team of three engineers. While doing hands on deployments and support. In patallel managing NOC 24*7 team, including recruiting and menotring new employees, managing the team, setting procedures and making sure SLA is being followed.
+
 2006 – 2011 Application Support and Change Management. Hands on supporting and execution of deployments, complex projects on Linux and Unix based systems based on Oracle DB.
 	
 ***1997 - 2006 INTEGRATION AND CUSTOMER SUPPORT ENGINEER (VARIOUS ROLES), TTI TELECOM***
