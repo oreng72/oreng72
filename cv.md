@@ -9,7 +9,7 @@ Experienced Engineer understands the melding of operations and development, work
 
 ***04/2021-NOW DEVOPS ENGINEER, TIPRANKS***
 
-Single DevOPS, leading all related activities as part of the engineering team. Responsible for security, monitoring, automation, CI / CD ,FinOPS ,developing processes and procedures in a complex micro service environment running on Azure.
+Single DevOPS, leading all related activities as part of the engineering team. Responsible for security, obsevability , automation, CI / CD ,FinOPS ,developing processes and procedures in a complex micro service environment running on Azure.
 
 ***2021 – 2006 SAAS OPERATIONS AND ENGINEERING (VARIOUS ROLES), RSA***
 
@@ -36,7 +36,7 @@ Responsibility for Bug drill down activities and Sanity tests of S/W as well as 
 
 •	Experience with Azure and AWS technologies and working relations with the vendors, fucosing on FinOPS and Security.
 
-•	Experience in various OS like Linux (Suse, RHEL) / Unix (Solaris) and windows-based systems, Micro services.
+•	Experience in serverless and various OS like Linux (Suse, RHEL) / Unix (Solaris) and windows-based systems.
 
 •	Security mind set and tools SIEM, TLS / SSL, Firewall, NSG, Endpoints, vulnerability remediations.
 
@@ -44,7 +44,7 @@ Responsibility for Bug drill down activities and Sanity tests of S/W as well as 
 
 •	Monitoring tools Grafana, Prometheus, Zabbix, Xymon etc
 
-•	Knowledgeable in Various DB SQL (SQL server, Oracle, Sybase) and noSQL (Cassandra).
+•	Knowledgeable in Various DB SQL (SQL server, Oracle, Sybase) and noSQL (Cassandra, ElasticSearch. Postgress).
 
 
 
